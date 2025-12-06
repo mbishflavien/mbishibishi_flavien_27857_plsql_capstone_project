@@ -516,9 +516,9 @@ This project is submitted as part of academic requirements for educational purpo
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-- Course instructors and mentors for guidance, specifically Mr. MANIRAGUHA Eric
+- Course instructor for guidance, specifically Mr. MANIRAGUHA Eric
 - Oracle documentation and PL/SQL community
 - Healthcare domain experts for requirements insights
 - Fellow students for collaborative learning
