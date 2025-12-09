@@ -108,7 +108,6 @@ mbishibishi_flavien_27857_plsql_capstone_project/
 | `APPOINTMENTS` | Scheduling & patient-doctor links | Time slot management, status tracking |
 | `BILLING` | Financial transactions & invoices | Auto-calculation, payment status |
 | `DEPARTMENTS` | Hospital organizational units | Hierarchy, specialization grouping |
-| `SERVICES` | Medical service catalog | Pricing, descriptions |
 | `AUDIT_LOG` | Change tracking for compliance | Timestamp, user, old/new values |
 
 ### Database Features
